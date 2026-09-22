@@ -15,7 +15,7 @@
   layers:
     - texture:
         !type:ImageParallaxTextureSource
-        path: "/Textures/Tiles/Planet/Desert/desert0.png"
+        path: "/Textures/_SIS/Tiles/Planet/Desert/desert0.png"
       slowness: 0
       scale: "1, 1"
       shader: ""
@@ -43,7 +43,7 @@
   layers:
     - texture:
         !type:ImageParallaxTextureSource
-        path: "/Textures/Tiles/Planet/lava.rsi/static.png"
+        path: "/Textures/_SIS/Tiles/Planet/lava.rsi/static.png"
       slowness: 0
       scrolling: "0, 0.1"
       tiled: true
