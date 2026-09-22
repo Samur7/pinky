@@ -47,5 +47,5 @@
       slowness: 0
       scrolling: "0, 0.1"
       tiled: true
-      shader: ""
+      shader: unshaded
   layersLQUseHQ: true
